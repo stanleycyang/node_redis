@@ -1,0 +1,19 @@
+{
+  "name": "redis_with_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "redis": "^0.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redis",
+    "nodejs"
+  ],
+  "author": "Stanley Yang",
+  "license": "ISC"
+}
