@@ -8,11 +8,11 @@ This application shows demonstrates the power of redis with NodeJS/ExpressJS.
 
 ###Installation
 
-  - git clone https://github.com/syang019/node_redis.git
-  - cd node_redis
-  - brew install redis
-  - redis-server
-  - node app.js
+    - git clone https://github.com/syang019/node_redis.git
+    - cd node_redis
+    - brew install redis
+    - redis-server
+    - node app.js
   
 ###Questions?
 
