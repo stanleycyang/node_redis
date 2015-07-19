@@ -16,4 +16,4 @@ This application shows demonstrates the power of redis with NodeJS/ExpressJS.
   
 ###Questions?
 
-  Contact me at my <stanley@stanleycyang.com>
+  Contact me at <stanley@stanleycyang.com>
